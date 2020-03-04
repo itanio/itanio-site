@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "itan.io",
+  "url": "https://itan.io/",
+  "description": "The website of digital services provider Sam Itani (itanio) containing general information, articles, experiences, a project portfolio, and more.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "The website of digital services provider Sam Itani (itanio)",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://itan.io/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Sam Itani",
+    "email": "itan.io"
   }
 }
